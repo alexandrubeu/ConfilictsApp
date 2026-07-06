@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Write your name");
+﻿Console.WriteLine("barna-tudor");
