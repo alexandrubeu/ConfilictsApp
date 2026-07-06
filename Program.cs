@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Gabit");
+Console.WriteLine("Gabit");
